@@ -12,5 +12,5 @@ Disallow: /fancybox/
 
 Sitemap: https://moshaolun.github.io/sitemap.xml
 Sitemap: https://moshaolun.github.io/baidusitemap.xml
-Sitemap: hhttp://ezoom.cc/sitemap.xml
+Sitemap: http://ezoom.cc/sitemap.xml
 Sitemap: http://ezoom.cc/baidusitemap.xml
